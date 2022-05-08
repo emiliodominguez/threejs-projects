@@ -1,5 +1,5 @@
 {
-	"name": "typescript-starter",
+	"name": "threejs-projects",
 	"author": "Emilio Domínguez",
 	"license": "MIT",
 	"type": "module",
@@ -13,6 +13,7 @@
 		"prettier": "prettier --write **/*.{js,jsx,ts,tsx,json}"
 	},
 	"dependencies": {
+		"dat.gui": "^0.7.9",
 		"inversify": "^6.0.1",
 		"reflect-metadata": "^0.1.13",
 		"three": "^0.140.0"
@@ -20,6 +21,7 @@
 	"devDependencies": {
 		"@babel/core": "^7.17.10",
 		"@babel/preset-env": "^7.17.10",
+		"@types/dat.gui": "^0.7.7",
 		"@types/three": "^0.140.0",
 		"babel-loader": "^8.2.5",
 		"chalk": "^5.0.1",
