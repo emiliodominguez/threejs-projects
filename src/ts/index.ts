@@ -1,2 +1,2 @@
-import "./rings";
-// import "./procedural-map";
+// import "./rings";
+import "./clock";
