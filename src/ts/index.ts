@@ -1,2 +1,3 @@
 // import "./rings";
-import "./clock";
+// import "./clock";
+import "./pixel-art";
